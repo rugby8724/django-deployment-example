@@ -27,7 +27,7 @@ SECRET_KEY = 'ui0881x35mtbrz*t2syv6-qud2b%$2*oi$j6kmk4gu%9rqv=e%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['thetad.pythonanywhere.com',]
 
 
 # Application definition
